@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/applyfriend_active.png</file>
+        <file>resource/image/applyfriend_unactive.png</file>
+        <file>resource/image/avatar_boy.png</file>
+        <file>resource/image/avatar_girl.png</file>
+        <file>resource/image/chat_11.png</file>
+        <file>resource/image/Extra.png</file>
+        <file>resource/image/filedir.png</file>
+        <file>resource/image/filedir_press.png</file>
+        <file>resource/image/friendTab_active.png</file>
+        <file>resource/image/friendTab_unactive.png</file>
+        <file>resource/image/search.png</file>
+        <file>resource/image/session_active.png</file>
+        <file>resource/image/session_unactive.png</file>
+        <file>resource/image/unvisible.png</file>
+        <file>resource/image/visible.png</file>
+    </qresource>
+</RCC>
