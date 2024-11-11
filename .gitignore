@@ -52,3 +52,18 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+
+# 忽略第三方库相关的 vcpkg 文件夹和文件
+third_party/vcpkg/buildtrees/
+third_party/vcpkg/packages/
+third_party/vcpkg/downloads/
+third_party/vcpkg/installed/
+
+# 忽略 vcpkg 自身的二进制文件（如果存在）
+third_party/vcpkg/vcpkg.exe
+third_party/vcpkg/vcpkg
+
+# 忽略 vcpkg 生成的临时文件和日志
+third_party/vcpkg/*.log
+third_party/vcpkg/*.cache
